@@ -3,7 +3,7 @@
 **Effective Date:** November 12, 2026  
 **Last Updated:** November 12, 2026  
 
-we operates the FlowT mobile application. This Privacy Policy explains how we collect, use, disclose, and safeguard your information when you use our App.
+We operates the FlowT mobile application. This Privacy Policy explains how we collect, use, disclose, and safeguard your information when you use our App.
 
 Please read this Privacy Policy carefully. By using the App, you agree to the collection and use of information in accordance with this policy.
 
